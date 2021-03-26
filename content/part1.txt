@@ -1,0 +1,6 @@
+Past - JPEG, PNG
+
+  1. History
+  2. How they work
+  3. Pros
+  4. Cons

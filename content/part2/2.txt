@@ -1,0 +1,14 @@
+How it works
+  i. Lossy
+    a. Discrete Cosine Transform (https://en.wikipedia.org/wiki/Discrete_Cosine_Transform)
+    b. VP8 intra-frame coding (http://blog.webmproject.org/2010/07/inside-webm-technology-vp8-intra-and.html)
+    c. Arithmetic entropy encoding instead of Huffman encoding (https://en.wikipedia.org/wiki/Arithmetic_coding)
+    d. Adaptive Block Quantization (https://developers.google.com/speed/webp/docs/compression#adaptive_block_quantization)
+    e. Lossy WebP with Alpha (https://developers.google.com/speed/webp/docs/compression#lossy_webp_with_alpha)
+  ii. Lossless
+    a. Predictor (Spatial) Transform (https://developers.google.com/speed/webp/docs/compression#predictor_spatial_transform)
+    b. Color (de-correlation) Transform (https://developers.google.com/speed/webp/docs/compression#color_de-correlation_transform)
+    c. Subtract Green Transform (https://developers.google.com/speed/webp/docs/compression#subtract_green_transform)
+    d. Color Indexing (palettes) Transform (https://developers.google.com/speed/webp/docs/compression#color_indexing_palettes_transform)
+    e. Color Cache Coding (https://developers.google.com/speed/webp/docs/compression#color_cache_coding)
+    f. LZ77 Backward Reference (https://developers.google.com/speed/webp/docs/compression#lz77_backward_reference)

@@ -1,0 +1,9 @@
+Image compression
+
+  1. What
+    i. What is Image
+    ii. What is compression
+  2. Why
+  3. Background
+    i. https://en.wikipedia.org/wiki/Image_compression (general methods)
+  4. How -> next part

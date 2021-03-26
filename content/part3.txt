@@ -1,0 +1,6 @@
+Future - AVIF, JPEG XL
+
+  1. History
+  2. How better than now, past
+  3. Pros
+  4. Cons (why not now)
