@@ -1,6 +1,18 @@
 Past - JPEG, PNG
 
   1. History
+    a. Created in 1992
+    b. By Joint Photographic Experts Group
+    c. The JPEG compression algorithm operates at its best on photographs and paintings of realistic scenes with smooth variations of tone and color. For web usage, where reducing the amount of data used for an image is important for responsive presentation, JPEG's compression benefits make JPEG popular.
   2. How they work
+    a. Uses DCT
+    b. It omits high frequency information a.k.a quantization (quantization is a method for optimally reducing a large number scale (with different occurrences of each number) into a smaller one)
+    c. Codec example can be found here -> https://en.wikipedia.org/wiki/JPEG
   3. Pros
+    a. It can reduce RAW image file sizes drastically at the cost of barely noticable differences.
+    b. It is useful for sharing media over the internet because of it's small size.
+    c. It is an open standard that almost all computers and phones support out-of-box
   4. Cons
+    a. It is larger than it needs to be
+    b. There are better compression techniques now.
+    c. It is old, and showing it's age.
