@@ -1,1 +1,5 @@
 Cons
+  a. Support
+  b. Not a huge difference from JPEG
+  c. Metadata cannot be directly viewed or edited
+  d. There are better ones coming like AVIF, JPEG XL and WebP2
