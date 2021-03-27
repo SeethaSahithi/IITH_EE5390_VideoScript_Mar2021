@@ -10,6 +10,7 @@ Future - AVIF, JPEG XL
     a. It compresses better.
     b. Better visual quality at a similar size compared to JPG, WebP.
   4. Cons (why not now)
-    a. Many of the devices don't natively support AVIF.
-    b. Firefox doesn't yet support AVIF (planned release soon)
-    c. Chrome for Android doesn't yet support (planned release soon)
+    a. Two biggest problems in AVIF are encoding speed and lack of progressive rendering. (https://blog.cloudflare.com/generate-avif-images-with-image-resizing/)
+    b. Many of the devices don't natively support AVIF.
+    c. Firefox doesn't yet support AVIF (planned release soon)
+    d. Chrome for Android doesn't yet support (planned release soon)
