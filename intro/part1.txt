@@ -6,4 +6,12 @@ Image compression
   2. Why
   3. Background
     i. https://en.wikipedia.org/wiki/Image_compression (general methods) 
+      A. Lossy
+        a. Transform coding (Discrete Cosine Transform used in JPEG)
+        b. Chroma subsampling (human eye can't perceive)
+        c. Fractal compression
+      B. Lossless
+        a. Entropy encoding (Huffman, arithmetic)
+        b. DEFLATE (LZSS and Huffman coding)
+        c. Predictive coding
   4. How -> next part
