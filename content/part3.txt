@@ -4,7 +4,8 @@ Future - AVIF, JPEG XL
     a. Version 1.0.0 of the AVIF specification was finalized in February 2019.
     b. By AOMedia
   2. How better than now, past
-    a. https://aomediacodec.github.io/av1-avif/
+    a. AV1 also uses a new compression technique: chroma-from-luma. Most image formats store brightness separately from color hue. AVIF uses the brightness channel to guess what the color channel may look like. They are usually correlated, so a good guess gives smaller file sizes and sharper edges.
+    b. https://aomediacodec.github.io/av1-avif/
   3. Pros
     a. It compresses better.
     b. Better visual quality at a similar size compared to JPG, WebP.
