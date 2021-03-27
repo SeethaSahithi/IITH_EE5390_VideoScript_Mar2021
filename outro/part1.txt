@@ -1,1 +1,14 @@
 References
+https://developers.google.com/speed/webp/docs/compression
+http://blog.webmproject.org/2010/07/inside-webm-technology-vp8-intra-and.html
+https://www.youtube.com/watch?v=F1kYBnY6mwg
+https://jakearchibald.com/2020/avif-has-landed/
+https://blog.cloudflare.com/generate-avif-images-with-image-resizing/
+https://squoosh.app/
+https://jakearchibald.github.io/image-experiments/channels/?demo=lane&uv=0.05
+https://jakearchibald.github.io/image-experiments/quant/
+https://en.wikipedia.org/wiki/Image_compression
+https://en.wikipedia.org/wiki/JPEG
+https://en.wikipedia.org/wiki/Chroma_subsampling
+https://en.wikipedia.org/wiki/Discrete_cosine_transform
+https://en.wikipedia.org/wiki/Data_compression
