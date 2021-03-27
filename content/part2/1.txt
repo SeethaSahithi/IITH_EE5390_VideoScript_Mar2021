@@ -1,1 +1,4 @@
 History
+  a. 30 September in 2010 as a new open format for lossy compressed true-color graphics on the web
+  b. By Google
+  c. It is a derivative of the VP8 video format
