@@ -1,6 +1,14 @@
 Future - AVIF, JPEG XL
 
   1. History
+    a. Version 1.0.0 of the AVIF specification was finalized in February 2019.
+    b. By AOMedia
   2. How better than now, past
+    a. https://aomediacodec.github.io/av1-avif/
   3. Pros
+    a. It compresses better.
+    b. Better visual quality at a similar size compared to JPG, WebP.
   4. Cons (why not now)
+    a. Many of the devices don't natively support AVIF.
+    b. Firefox doesn't yet support AVIF (planned release soon)
+    c. Chrome for Android doesn't yet support (planned release soon)
